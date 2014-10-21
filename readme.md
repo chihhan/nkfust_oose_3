@@ -45,3 +45,4 @@
 管理人員                 | 正確建立特約商店基本資料，對會員進行管理，根據資料進行分析。
 系統維護人員             | 系統程式的維護，使之順利運行。
 
+https://images.plurk.com/69yg27GS5UueRPsZaRqaId.jpg
