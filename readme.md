@@ -69,14 +69,31 @@
 <img src="https://images.plurk.com/1lQEAZv0rZoVOKJh0IFlY7.jpg">
 
 ##使用者查詢作業
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://images.plurk.com/30CwoaV5vX1VAmvXDim2qY.jpg">
+<img src="https://images.plurk.com/wYpyvjfOUiC4rLfihTUkg.jpg">
+<img src="https://images.plurk.com/4spyBYvMgK4xItHj88TvDw.jpg">
+<img src="https://images.plurk.com/1raThnwJcrqTB4VSyFCBl9.jpg">
+<img src="https://images.plurk.com/6kUHmwcPBtlFaiOG50qzJp.jpg">
+<img src="https://images.plurk.com/qk1c5dg5B1YyuaoGKR9uK.jpg">
+<img src="https://images.plurk.com/4KFl4Qmj12O3ocilP60N1o.jpg">
+<img src="https://images.plurk.com/1KOkzo1rablw8pTCUxt6RU.jpg">
+<img src="https://images.plurk.com/5x1ppyK7LBOWt71kCgzuQF.jpg">
+
+##使用者評價作業
+<img src="https://images.plurk.com/dFfhU1Q3k1mIFYk5gcY6p.jpg">
+<img src="https://images.plurk.com/43YxqXm6oDqcN0DoEC7wOP.jpg">
+<img src="https://images.plurk.com/t5fLfS5h7QSyvDrAvNkTV.jpg">
+<img src="https://images.plurk.com/3ODSIV6SXAlWBQDbf4Cjk1.jpg">
+<img src="https://images.plurk.com/5rYlO0hPEtjZBGW2Pfn0RT.jpg">
+<img src="https://images.plurk.com/7kj5yemcgWr3wiR8ohcWfT.jpg">
+<img src="https://images.plurk.com/54HeLoKfevhr7Z1efkSt4W.jpg">
+<img src="https://images.plurk.com/5mHRwsood44svg2W3kY2s1.jpg">
+<img src="https://images.plurk.com/1bSkRf3It0l8hu67D8IAsc.jpg">
+<img src="https://images.plurk.com/54VXgOR7pwJ0saOYEaOYRX.jpg">
+<img src="https://images.plurk.com/mnf3CqJ844sx4Knen4REC.jpg">
+<img src="https://images.plurk.com/6lnXgCGyjdLROgaXxDdNnR.jpg">
+
+##特約商店分析作業
 <img src="">
 <img src="">
 <img src="">
