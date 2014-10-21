@@ -46,6 +46,16 @@
 系統維護人員             | 系統程式的維護，使之順利運行。
 
 
+##使用案例圖:
+<img src="https://images.plurk.com/1z2DO6AnqYEGl6Hqlf07SB.jpg">
+
+##系統-初步類別圖
+<img src="https://images.plurk.com/mnf3CqJ844sx4Knen4REC.jpg">
+
+##系統-英文名稱之初步類別圖
+<img src="https://images.plurk.com/6lnXgCGyjdLROgaXxDdNnR.jpg">
+
+
 ##特約商店資料作業
 <img src="https://images.plurk.com/3Cw3ZqSVExrkMkjXzg4bSf.jpg">
 <img src="https://images.plurk.com/3eIlFYnIAaktf2t9rM9NU5.jpg">
@@ -103,8 +113,3 @@
 <img src="https://images.plurk.com/XULtn9sWJwsSHvxy0Imo6.jpg">
 
 
-
-
-<img src="https://images.plurk.com/mnf3CqJ844sx4Knen4REC.jpg">
-<img src="https://images.plurk.com/6lnXgCGyjdLROgaXxDdNnR.jpg">
-<img src="https://images.plurk.com/1z2DO6AnqYEGl6Hqlf07SB.jpg">
