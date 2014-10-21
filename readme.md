@@ -57,6 +57,24 @@
 <img src="https://images.plurk.com/1J08yDH2qD7iF74oihFpyj.jpg">
 
 ##店家加入會員作業
+<img src="https://images.plurk.com/18SCsywddo2kwEp68AKv4S.jpg">
+<img src="https://images.plurk.com/3hQ9CR5CAoR3Tj5wWYQuuA.jpg">
+<img src="https://images.plurk.com/2OOQMGfZMBQz0nGOpH3cep.jpg">
+<img src="https://images.plurk.com/6T3E4mlWRsn2cjewObhfXC.jpg">
+<img src="https://images.plurk.com/6SNeAa2BOiWvOAj3sI4igi.jpg">
+<img src="https://images.plurk.com/1PZKBy1IpY7aeCxP6ndaQP.jpg">
+<img src="https://images.plurk.com/3LVDRGTaAhuyhp6m7cXgmp.jpg">
+<img src="https://images.plurk.com/5eyYCNvX98EHki8CYKGfjm.jpg">
+<img src="https://images.plurk.com/4gQyIEjbGeAyQKLgyYBIOt.jpg">
+<img src="https://images.plurk.com/1lQEAZv0rZoVOKJh0IFlY7.jpg">
+
+##使用者查詢作業
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
 <img src="">
 <img src="">
 <img src="">
