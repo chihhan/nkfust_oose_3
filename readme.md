@@ -45,16 +45,18 @@
 管理人員                 | 正確建立特約商店基本資料，對會員進行管理，根據資料進行分析。
 系統維護人員             | 系統程式的維護，使之順利運行。
 
-## 使用案例圖:
 
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+##特約商店資料作業
+<img src="https://images.plurk.com/3Cw3ZqSVExrkMkjXzg4bSf.jpg">
+<img src="https://images.plurk.com/3eIlFYnIAaktf2t9rM9NU5.jpg">
+<img src="https://images.plurk.com/5zeaV07xHGPbHyoPHUkWPh.jpg">
+<img src="https://images.plurk.com/239hhGXOVlFPOoi0epneGw.jpg">
+<img src="https://images.plurk.com/7rm4pbIHl7q8t4oTe9xy4K.jpg">
+<img src="https://images.plurk.com/5BuWj1wMhZFTcGMQHsWzLw.jpg">
+<img src="https://images.plurk.com/3q5a6h5qcW8odulvvJ1PVx.jpg">
+<img src="https://images.plurk.com/1J08yDH2qD7iF74oihFpyj.jpg">
+
+##店家加入會員作業
 <img src="">
 <img src="">
 <img src="">
