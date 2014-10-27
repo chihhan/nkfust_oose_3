@@ -41,7 +41,7 @@
 <img src="https://images.plurk.com/2YkVha36VYonbDeaAMYBPR.jpg">
 
 ##使用案例圖:
-<img src="https://images.plurk.com/1z2DO6AnqYEGl6Hqlf07SB.jpg">
+<img src="https://images.plurk.com/6z24kJExuIpbxcoQiKpR29.jpg">
 
 ##系統-初步類別圖
 <img src="https://images.plurk.com/mnf3CqJ844sx4Knen4REC.jpg">
