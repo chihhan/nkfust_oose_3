@@ -121,7 +121,7 @@
 <img src="https://images.plurk.com/26b2Glnv2pgdAjV0HHhcGG.jpg">
 <img src="https://images.plurk.com/2YZz7lpkRAnN5vEm64c4vz.jpg">
 <img src="https://images.plurk.com/486HC25UdQLK0maWOnfAAY.jpg">
-<img src="https://images.plurk.com/KiyagxkGpqOXwBNWpBcLd.jpg">
+<img src="https://images.plurk.com/67KyyG7j0aGXNdMkte2uNv.jpg">
 ###成功情節
 <img src="https://images.plurk.com/3N5nUiiO9Pk8HAfgl3WUIw.jpg">
 ###合約
