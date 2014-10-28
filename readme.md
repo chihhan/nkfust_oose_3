@@ -118,7 +118,7 @@
 
 ##特約商店分析作業
 <img src="https://images.plurk.com/4U8r0EVkzHVOfitwW5EYv7.jpg">
-<img src="https://images.plurk.com/5xusegFhuo1hsQiHby6dd9.jpg">
+<img src="https://images.plurk.com/26b2Glnv2pgdAjV0HHhcGG.jpg">
 <img src="https://images.plurk.com/2YZz7lpkRAnN5vEm64c4vz.jpg">
 <img src="https://images.plurk.com/486HC25UdQLK0maWOnfAAY.jpg">
 <img src="https://images.plurk.com/KiyagxkGpqOXwBNWpBcLd.jpg">
