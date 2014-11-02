@@ -38,7 +38,6 @@
 需求分析：
 
 使用者：獲知位置特約商店所在位置及相關資訊。
-
 特約商店：進行行銷。
 
 ##<a name="2"/>利害關係人目標表:
@@ -120,7 +119,6 @@
 <img src="https://images.plurk.com/43YxqXm6oDqcN0DoEC7wOP.jpg">
 <img src="https://images.plurk.com/t5fLfS5h7QSyvDrAvNkTV.jpg">
 <img src="https://images.plurk.com/3ODSIV6SXAlWBQDbf4Cjk1.jpg">
-<img src="https://images.plurk.com/7rxSIq44M1X84s0l5KXgQW.jpg">
 <img src="https://images.plurk.com/7kj5yemcgWr3wiR8ohcWfT.jpg">
 <img src="https://images.plurk.com/54HeLoKfevhr7Z1efkSt4W.jpg">
 <img src="https://images.plurk.com/5mHRwsood44svg2W3kY2s1.jpg">
