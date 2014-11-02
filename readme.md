@@ -20,22 +20,22 @@
 [四、使用者評價作業](#9)   
 [五、特約商店分析作業](#10)    
 ##<a name="1"/> 專題內容:
-前言：
+###前言：###
 
-甚麼是國民旅遊卡?
+####甚麼是國民旅遊卡?####
 
 早期公務人員有所為「不休假加班費」，也就是說「假」和「錢」可以等值交換。不管任何因素倘使「假」休不完，可以透過這制度將「應休而為休完的假」折合現金。然而如此一來卻形成一項奇特的現象，有不少的公務員因這項制度的存在寧願放棄休假機會以領取「不休假津貼」，後果除了增加政府的支出，同時也無法貫徹休假制度的實施。
 
 政府想要改變工務人員的休假習慣，發行此卡為鼓勵公務人員多休假，只要願意休假便給予補助以支付因休假可能帶來的開支，每年每人擁有八至十四天的休假，額度以一萬六千元為限。
 
-動機與目的： 
+####動機與目的：#### 
 
 特約商店：達到行銷目的，並從使用者的回饋獲得改善方向。	    
 一般使用者：清楚掌握有效店的位置，並可獲得店家的相關資訊。     
 
 自從國民旅遊卡發行以來，越來越多店家加入特約商店的行列，但卻常常有使用者不清楚哪些店家是有效店，哪些店家已解約，而發生烏龍誤刷而無法獲得補助的事件，因此我們想藉由開發此系統，達到資訊整合與更加公開的目的，預期本系統開發完成後能更加促進觀光產業的發展。
 
-需求分析：
+####需求分析：####
 
 使用者：獲知位置特約商店所在位置及相關資訊。
 特約商店：進行行銷。
@@ -67,20 +67,20 @@
 [TOP](#top)
 
 ##<a name="6"/>特約商店資料作業
-使用案例描述
+###使用案例描述###
 <p><img src="https://images.plurk.com/3Cw3ZqSVExrkMkjXzg4bSf.jpg"></p>
-使用案例活動圖
+###使用案例活動圖###
 <p><img src="https://images.plurk.com/1BLISCUrVNMNAUFR5KZ0sZ.jpg"></p>
 <p><img src="https://images.plurk.com/2AvQPIRbhXOirbFoySZEct.jpg"></p>
-使用案例概念類別表
+###使用案例概念類別表###
 <p><img src="https://images.plurk.com/5zeaV07xHGPbHyoPHUkWPh.jpg"></p>
-使用案例初步類別圖
+###使用案例初步類別圖###
 <p><img src="https://images.plurk.com/QcauqsKAaGfzTpVWuBtE.jpg"></p>
-使用案例的名詞與概念類別列舉表
+###使用案例的名詞與概念類別列舉表###
 <p><img src="https://images.plurk.com/4mcXV1cKEW92LlfXlTCnhJ.jpg"></p>
-使用案例系統循序圖
+###使用案例系統循序圖###
 <p><img src="https://images.plurk.com/5BuWj1wMhZFTcGMQHsWzLw.jpg"></p>
-使用案例事件之合約
+###使用案例事件之合約###
 <p><img src="https://images.plurk.com/4Vaf43dbAGtPRA0Sb5CofQ.jpg"></p>
 <p><img src="https://images.plurk.com/3OG8ZAXMTmV0Vvr10AdpHH.jpg"></p>
 <p><img src="https://images.plurk.com/2uo6hNAQDTp7vXNh2MTDEJ.jpg"></p>
@@ -128,21 +128,21 @@
 [TOP](#top)
 
 ##<a name="10"/>特約商店分析作業
-使用案例描述
+###使用案例描述###
 <p><img src="https://images.plurk.com/5BwbaHWbeGMUi8YB8VpFSY.jpg"></p>
-使用案例活動圖
+###使用案例活動圖###
 <p><img src="https://images.plurk.com/5fZncaNGduZMyqSnu4fTTA.jpg"></p>
-使用案例概念類別
+###使用案例概念類別###
 <p><img src="https://images.plurk.com/1Wrldl3zz7oBx4rdY0SpIC.jpg"></p>
-使用案例的名詞與概念類別列舉表
+###使用案例的名詞與概念類別列舉表###
 <p><img src="https://images.plurk.com/5V2d87z98ORFf9LFRWrI8F.jpg"></p>
-使用案例初步類別圖
+###使用案例初步類別圖###
 <p><img src="https://images.plurk.com/qbO9WCWLWAo68eUuiGTJN.jpg"></p>
-使用案例事件之合約
+###使用案例事件之合約###
 <p><img src="https://images.plurk.com/qlpw0PuxrqYZt8Z8mrMxv.jpg"></p>
 <p><img src="https://images.plurk.com/5I6GKYLGXa8DQJh1uZ5oHp.jpg"></p>
 <p><img src="https://images.plurk.com/280uaR1mxFkSlNhlvT0eyt.jpg"></p>
-使用案例循序圖
+###使用案例循序圖###
 <p><img src="https://images.plurk.com/2UZvbMhD7vxVyvjI212ukG.jpg"></p>
 
 [TOP](#top)
