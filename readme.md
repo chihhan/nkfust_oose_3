@@ -139,7 +139,7 @@
 ###使用案例概念類別###
 <p><img src="https://images.plurk.com/1Wrldl3zz7oBx4rdY0SpIC.jpg"></p>
 ###使用案例的名詞與概念類別列舉表###
-<p><img src="https://images.plurk.com/2ioUaS3xsus7lqTfeoxhI3.jpg"></p>
+<p><img src="https://images.plurk.com/7LEUA1KFLcsQKRFmoBWaJ.jpg"></p>
 ###使用案例初步類別圖###
 <p><img src="https://images.plurk.com/bHHrqSdpbbvOZbrhyWoDH.jpg"></p>
 ###使用案例事件之合約###
