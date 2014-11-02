@@ -68,22 +68,22 @@
 
 ##<a name="6"/>特約商店資料作業
 使用案例描述
-<img src="https://images.plurk.com/3Cw3ZqSVExrkMkjXzg4bSf.jpg">
+<p><img src="https://images.plurk.com/3Cw3ZqSVExrkMkjXzg4bSf.jpg"></p>
 使用案例活動圖
-<img src="https://images.plurk.com/1BLISCUrVNMNAUFR5KZ0sZ.jpg">
-<img src="https://images.plurk.com/2AvQPIRbhXOirbFoySZEct.jpg">
+<p><img src="https://images.plurk.com/1BLISCUrVNMNAUFR5KZ0sZ.jpg"></p>
+<p><img src="https://images.plurk.com/2AvQPIRbhXOirbFoySZEct.jpg"></p>
 使用案例概念類別表
-<img src="https://images.plurk.com/5zeaV07xHGPbHyoPHUkWPh.jpg">
+<p><img src="https://images.plurk.com/5zeaV07xHGPbHyoPHUkWPh.jpg"></p>
 使用案例初步類別圖
-<img src="https://images.plurk.com/QcauqsKAaGfzTpVWuBtE.jpg">
+<p><img src="https://images.plurk.com/QcauqsKAaGfzTpVWuBtE.jpg"></p>
 使用案例的名詞與概念類別列舉表
-<img src="https://images.plurk.com/4mcXV1cKEW92LlfXlTCnhJ.jpg">
+<p><img src="https://images.plurk.com/4mcXV1cKEW92LlfXlTCnhJ.jpg"></p>
 使用案例系統循序圖
-<img src="https://images.plurk.com/7rm4pbIHl7q8t4oTe9xy4K.jpg">
+<p><img src="https://images.plurk.com/7rm4pbIHl7q8t4oTe9xy4K.jpg"></p>
 使用案例事件之合約
-<img src="https://images.plurk.com/4Vaf43dbAGtPRA0Sb5CofQ.jpg">
-<img src="https://images.plurk.com/3OG8ZAXMTmV0Vvr10AdpHH.jpg">
-<img src="https://images.plurk.com/2uo6hNAQDTp7vXNh2MTDEJ.jpg">
+<p><img src="https://images.plurk.com/4Vaf43dbAGtPRA0Sb5CofQ.jpg"></p>
+<p><img src="https://images.plurk.com/3OG8ZAXMTmV0Vvr10AdpHH.jpg"></p>
+<p><img src="https://images.plurk.com/2uo6hNAQDTp7vXNh2MTDEJ.jpg"></p>
 
 [TOP](#top)
 
