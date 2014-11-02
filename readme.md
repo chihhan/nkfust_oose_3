@@ -116,10 +116,13 @@
 [TOP](#top)
 
 ##<a name="9"/>使用者評價作業
+###使用案例描述###
 <img src="https://images.plurk.com/dFfhU1Q3k1mIFYk5gcY6p.jpg">
+###使用案例活動圖###
 <img src="https://images.plurk.com/43YxqXm6oDqcN0DoEC7wOP.jpg">
 <img src="https://images.plurk.com/t5fLfS5h7QSyvDrAvNkTV.jpg">
-<img src="https://images.plurk.com/3ODSIV6SXAlWBQDbf4Cjk1.jpg">
+###使用案例初步類別圖###
+<img src="https://images.plurk.com/7KVKKSH4G4iCT2yZCLgXpu.jpg">
 <img src="https://images.plurk.com/7kj5yemcgWr3wiR8ohcWfT.jpg">
 <img src="https://images.plurk.com/54HeLoKfevhr7Z1efkSt4W.jpg">
 <img src="https://images.plurk.com/5mHRwsood44svg2W3kY2s1.jpg">
@@ -138,13 +141,13 @@
 ###使用案例的名詞與概念類別列舉表###
 <p><img src="https://images.plurk.com/5V2d87z98ORFf9LFRWrI8F.jpg"></p>
 ###使用案例初步類別圖###
-<p><img src="https://images.plurk.com/qbO9WCWLWAo68eUuiGTJN.jpg"></p>
+<p><img src="https://images.plurk.com/bHHrqSdpbbvOZbrhyWoDH.jpg"></p>
 ###使用案例事件之合約###
 <p><img src="https://images.plurk.com/qlpw0PuxrqYZt8Z8mrMxv.jpg"></p>
 <p><img src="https://images.plurk.com/5I6GKYLGXa8DQJh1uZ5oHp.jpg"></p>
 <p><img src="https://images.plurk.com/280uaR1mxFkSlNhlvT0eyt.jpg"></p>
 ###使用案例循序圖###
-<p><img src="https://images.plurk.com/2UZvbMhD7vxVyvjI212ukG.jpg"></p>
+<p><img src="https://images.plurk.com/5nyVpsqxvFj4wd1BY1DZJ7.jpg"></p>
 
 [TOP](#top)
 
