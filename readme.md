@@ -120,21 +120,21 @@
 
 ##<a name="10"/>特約商店分析作業
 案例描述
-<img src="https://images.plurk.com/15EahRSieEFXG82a1s5wwN.jpg">
+<p><img src="https://images.plurk.com/15EahRSieEFXG82a1s5wwN.jpg"></p>
 使用案例活動圖
-<img src="https://images.plurk.com/5fZncaNGduZMyqSnu4fTTA.jpg">
+<p><img src="https://images.plurk.com/5fZncaNGduZMyqSnu4fTTA.jpg"></p>
 使用案例概念類別
-<img src="https://images.plurk.com/1Wrldl3zz7oBx4rdY0SpIC.jpg">
+<p><img src="https://images.plurk.com/1Wrldl3zz7oBx4rdY0SpIC.jpg"></p>
 使用案例的名詞與概念類別列舉表
-<img src="https://images.plurk.com/5V2d87z98ORFf9LFRWrI8F.jpg">
+<p><img src="https://images.plurk.com/5V2d87z98ORFf9LFRWrI8F.jpg"></p>
 使用案例初步類別圖
-<img src="https://images.plurk.com/qbO9WCWLWAo68eUuiGTJN.jpg">
+<p><img src="https://images.plurk.com/qbO9WCWLWAo68eUuiGTJN.jpg"></p>
 使用案例事件之合約
-<img src="https://images.plurk.com/qlpw0PuxrqYZt8Z8mrMxv.jpg">
-<img src="https://images.plurk.com/5I6GKYLGXa8DQJh1uZ5oHp.jpg">
-<img src="https://images.plurk.com/280uaR1mxFkSlNhlvT0eyt.jpg">
+<p><img src="https://images.plurk.com/qlpw0PuxrqYZt8Z8mrMxv.jpg"></p>
+<p><img src="https://images.plurk.com/5I6GKYLGXa8DQJh1uZ5oHp.jpg"></p>
+<p><img src="https://images.plurk.com/280uaR1mxFkSlNhlvT0eyt.jpg"></p>
 使用案例循序圖
-<img src="https://images.plurk.com/3JBqz1gGLlT5RjaIdj5did.jpg">
+<p><img src="https://images.plurk.com/3JBqz1gGLlT5RjaIdj5did.jpg"></p>
 
 [TOP](#top)
 
