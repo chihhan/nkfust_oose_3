@@ -118,12 +118,12 @@
 ##<a name="9"/>使用者評價作業
 ###使用案例描述###
 <img src="https://images.plurk.com/dFfhU1Q3k1mIFYk5gcY6p.jpg">
-###使用案例活動圖###
 <img src="https://images.plurk.com/43YxqXm6oDqcN0DoEC7wOP.jpg">
+###使用案例活動圖###
 <img src="https://images.plurk.com/t5fLfS5h7QSyvDrAvNkTV.jpg">
+<img src="https://images.plurk.com/3ODSIV6SXAlWBQDbf4Cjk1.jpg">
 ###使用案例初步類別圖###
 <img src="https://images.plurk.com/7KVKKSH4G4iCT2yZCLgXpu.jpg">
-<img src="https://images.plurk.com/7kj5yemcgWr3wiR8ohcWfT.jpg">
 <img src="https://images.plurk.com/54HeLoKfevhr7Z1efkSt4W.jpg">
 <img src="https://images.plurk.com/5mHRwsood44svg2W3kY2s1.jpg">
 <img src="https://images.plurk.com/1bSkRf3It0l8hu67D8IAsc.jpg">
