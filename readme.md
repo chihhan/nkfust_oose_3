@@ -41,7 +41,7 @@
 特約商店：進行行銷。
 
 ##<a name="2"/>利害關係人目標表:
-<img src="https://images.plurk.com/7l19voOUWh3Y6fgM2kWSGj.jpg">
+<img src="https://images.plurk.com/NkQwHUZ9jnw3DGh9GotxR.jpg">
 
 [TOP](#top)
 
@@ -67,15 +67,23 @@
 [TOP](#top)
 
 ##<a name="6"/>特約商店資料作業
+使用案例描述
 <img src="https://images.plurk.com/3Cw3ZqSVExrkMkjXzg4bSf.jpg">
-<img src="https://images.plurk.com/3eIlFYnIAaktf2t9rM9NU5.jpg">
+使用案例活動圖
+<img src="https://images.plurk.com/1BLISCUrVNMNAUFR5KZ0sZ.jpg">
+<img src="https://images.plurk.com/2AvQPIRbhXOirbFoySZEct.jpg">
+使用案例概念類別表
 <img src="https://images.plurk.com/5zeaV07xHGPbHyoPHUkWPh.jpg">
-<img src="https://images.plurk.com/239hhGXOVlFPOoi0epneGw.jpg">
-<img src="https://images.plurk.com/3tpQLsE1hXAyOkS4lkHbem.jpg">
+使用案例初步類別圖
+<img src="https://images.plurk.com/QcauqsKAaGfzTpVWuBtE.jpg">
+使用案例的名詞與概念類別列舉表
+<img src="https://images.plurk.com/4mcXV1cKEW92LlfXlTCnhJ.jpg">
+使用案例系統循序圖
 <img src="https://images.plurk.com/7rm4pbIHl7q8t4oTe9xy4K.jpg">
-<img src="https://images.plurk.com/5BuWj1wMhZFTcGMQHsWzLw.jpg">
-<img src="https://images.plurk.com/3q5a6h5qcW8odulvvJ1PVx.jpg">
-<img src="https://images.plurk.com/6hy4pcpGKIotl2Yb9PHo3T.jpg">
+使用案例事件之合約
+<img src="https://images.plurk.com/4Vaf43dbAGtPRA0Sb5CofQ.jpg">
+<img src="https://images.plurk.com/3OG8ZAXMTmV0Vvr10AdpHH.jpg">
+<img src="https://images.plurk.com/2uo6hNAQDTp7vXNh2MTDEJ.jpg">
 
 [TOP](#top)
 
