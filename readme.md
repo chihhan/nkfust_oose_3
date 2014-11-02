@@ -119,8 +119,8 @@
 [TOP](#top)
 
 ##<a name="10"/>特約商店分析作業
-案例描述
-<p><img src="https://images.plurk.com/15EahRSieEFXG82a1s5wwN.jpg"></p>
+使用案例描述
+<p><img src="https://images.plurk.com/5BwbaHWbeGMUi8YB8VpFSY.jpg"></p>
 使用案例活動圖
 <p><img src="https://images.plurk.com/5fZncaNGduZMyqSnu4fTTA.jpg"></p>
 使用案例概念類別
