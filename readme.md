@@ -41,7 +41,7 @@
 特約商店：進行行銷。
 
 ##<a name="2"/>利害關係人目標表:
-<img src="https://images.plurk.com/4NwucsEztkpPFk4cCgIjlF.jpg">
+<img src="https://images.plurk.com/7l19voOUWh3Y6fgM2kWSGj.jpg">
 
 [TOP](#top)
 
