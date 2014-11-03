@@ -85,16 +85,22 @@
 [TOP](#top)
 
 ##<a name="7"/>店家加入會員作業
-<img src="https://images.plurk.com/18SCsywddo2kwEp68AKv4S.jpg">
-<img src="https://images.plurk.com/3hQ9CR5CAoR3Tj5wWYQuuA.jpg">
-<img src="https://images.plurk.com/2OOQMGfZMBQz0nGOpH3cep.jpg">
-<img src="https://images.plurk.com/6T3E4mlWRsn2cjewObhfXC.jpg">
-<img src="https://images.plurk.com/6SNeAa2BOiWvOAj3sI4igi.jpg">
-<img src="https://images.plurk.com/2X0kWpZ5ca8RVUqtETwXJ0.jpg">
-<img src="https://images.plurk.com/3LVDRGTaAhuyhp6m7cXgmp.jpg">
-<img src="https://images.plurk.com/5eyYCNvX98EHki8CYKGfjm.jpg">
-<img src="https://images.plurk.com/4gQyIEjbGeAyQKLgyYBIOt.jpg">
-<img src="https://images.plurk.com/1lQEAZv0rZoVOKJh0IFlY7.jpg">
+###使用案例描述###
+<p><img src="https://images.plurk.com/5ig4kgnXKoakzsjwtmaw7f.jpg"></p>
+###使用案例活動圖###
+<p><img src="https://images.plurk.com/3hQ9CR5CAoR3Tj5wWYQuuA.jpg"></p>
+<p><img src="https://images.plurk.com/6T3E4mlWRsn2cjewObhfXC.jpg"></p>
+###使用案例概念類別表###
+<p><img src="https://images.plurk.com/1Ivhxr6Y8PXyERvIr5tvzO.jpg"></p>
+###使用案例初步類別圖###
+<p><img src="https://images.plurk.com/4FhW01wZ1giJdYVk35ENKK.jpg"></p>
+###使用案例的名詞與概念類別列舉表###
+<p><img src="https://images.plurk.com/vpCp3GPO6MN5tOOZEASYw.jpg"></p>
+###使用案例系統循序圖###
+<p><img src="https://images.plurk.com/6xnqSq6POAyg9sBTgmZ8qw.jpg"></p>
+###使用案例事件之合約###
+<p><img src="https://images.plurk.com/4qr4zYi47UlrYONNh7TzdL.jpg"></p>
+<p><img src="https://images.plurk.com/2byBZr0fhVSLZX965wlVa2.jpg"></p>
 
 [TOP](#top)
 
