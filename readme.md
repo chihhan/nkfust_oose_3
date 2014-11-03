@@ -51,18 +51,14 @@
 
 [TOP](#top)
 
-##<a name="4"/>使用案例圖:
+##<a name="4"/>使用案例圖
 <img src="https://images.plurk.com/4NwucsEztkpPFk4cCgIjlF.jpg">
 
 [TOP](#top)
 
-##<a name="5"/>系統-初步類別圖
-<img src="https://images.plurk.com/4IbS4eW4VZUhqYUkf3Wh58.jpg">
+##<a name="5"/>系統之初步類別圖
 
-[TOP](#top)
-
-##系統-英文名稱之初步類別圖
-<img src="https://images.plurk.com/6lnXgCGyjdLROgaXxDdNnR.jpg">
+<img src="https://images.plurk.com/3RSmYCTk6zKunvawwl9Dxx.jpg">
 
 
 [TOP](#top)
