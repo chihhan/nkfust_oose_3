@@ -18,7 +18,8 @@
 [二、店家加入會員作業](#7)   
 [三、使用者查詢作業](#8)   
 [四、使用者評價作業](#9)   
-[五、特約商店分析作業](#10)    
+[五、特約商店分析作業](#10) 
+[工作分配](#11)
 ##<a name="1"/> 專題內容:
 ###前言：###
 
@@ -150,10 +151,9 @@
 <p><img src="https://images.plurk.com/280uaR1mxFkSlNhlvT0eyt.jpg"></p>
 ###使用案例循序圖###
 <p><img src="https://images.plurk.com/5nyVpsqxvFj4wd1BY1DZJ7.jpg"></p>
-
 [TOP](#top)
 
-##工作分配
+##<a name="11"/>工作分配
 
 <table style="width:100%">
   <tr>
@@ -193,6 +193,6 @@
 </table>
 <br>
 
-
+[TOP](#top)
 
 
