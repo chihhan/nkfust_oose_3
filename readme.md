@@ -108,7 +108,6 @@
 <img src="https://images.plurk.com/wYpyvjfOUiC4rLfihTUkg.jpg">
 <img src="https://images.plurk.com/4spyBYvMgK4xItHj88TvDw.jpg">
 <img src="https://images.plurk.com/3l1mtHOElFDFOEIKtN7JF9.jpg">
-<img src="https://images.plurk.com/6kUHmwcPBtlFaiOG50qzJp.jpg">
 <img src="https://images.plurk.com/qk1c5dg5B1YyuaoGKR9uK.jpg">
 <img src="https://images.plurk.com/4KFl4Qmj12O3ocilP60N1o.jpg">
 <img src="https://images.plurk.com/1KOkzo1rablw8pTCUxt6RU.jpg">
