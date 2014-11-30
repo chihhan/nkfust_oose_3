@@ -104,13 +104,13 @@
 [TOP](#top)
 
 ##<a name="8"/>使用者查詢作業
-<img src="https://images.plurk.com/30CwoaV5vX1VAmvXDim2qY.jpg"> <!--使用案例描述-->
-<img src="https://images.plurk.com/wYpyvjfOUiC4rLfihTUkg.jpg">  <!--活動圖-->
-<img src="https://images.plurk.com/4spyBYvMgK4xItHj88TvDw.jpg"> <!--概念類別表-->
-<img src="https://images.plurk.com/3l1mtHOElFDFOEIKtN7JF9.jpg"> <!--初步類別圖-->
-<img src="https://images.plurk.com/qk1c5dg5B1YyuaoGKR9uK.jpg">  <!--英文名稱事件對應-->
-<img src="https://images.plurk.com/5x1ppyK7LBOWt71kCgzuQF.jpg"> <!--系統循序圖-->
-<img src="https://images.plurk.com/4KFl4Qmj12O3ocilP60N1o.jpg"> <!--合約-->
+<img src="https://images.plurk.com/30CwoaV5vX1VAmvXDim2qY.jpg"> 
+<img src="https://images.plurk.com/wYpyvjfOUiC4rLfihTUkg.jpg">  
+<img src="https://images.plurk.com/4spyBYvMgK4xItHj88TvDw.jpg"> 
+<img src="https://images.plurk.com/3l1mtHOElFDFOEIKtN7JF9.jpg"> 
+<img src="https://images.plurk.com/qk1c5dg5B1YyuaoGKR9uK.jpg">  
+<img src="https://images.plurk.com/5x1ppyK7LBOWt71kCgzuQF.jpg"> 
+<img src="https://images.plurk.com/4KFl4Qmj12O3ocilP60N1o.jpg"> 
 <img src="https://images.plurk.com/1KOkzo1rablw8pTCUxt6RU.jpg">
 
 [TOP](#top)
@@ -124,9 +124,9 @@
 <img src="https://images.plurk.com/3ODSIV6SXAlWBQDbf4Cjk1.jpg">
 ###使用案例初步類別圖###
 <img src="https://images.plurk.com/7KVKKSH4G4iCT2yZCLgXpu.jpg">
-<img src="https://images.plurk.com/54HeLoKfevhr7Z1efkSt4W.jpg"> <!--英文名稱事件對應-->
-<img src="https://images.plurk.com/54VXgOR7pwJ0saOYEaOYRX.jpg"> <!--系統循序圖-->
-<img src="https://images.plurk.com/5mHRwsood44svg2W3kY2s1.jpg"> <!--合約-->
+<img src="https://images.plurk.com/54HeLoKfevhr7Z1efkSt4W.jpg"> 
+<img src="https://images.plurk.com/54VXgOR7pwJ0saOYEaOYRX.jpg"> 
+<img src="https://images.plurk.com/5mHRwsood44svg2W3kY2s1.jpg"> 
 <img src="https://images.plurk.com/1bSkRf3It0l8hu67D8IAsc.jpg">
 
 [TOP](#top)
