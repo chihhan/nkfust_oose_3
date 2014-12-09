@@ -115,7 +115,7 @@
 <img src="https://images.plurk.com/4spyBYvMgK4xItHj88TvDw.jpg"> 
 ###強韌圖###
 <img src="https://images.plurk.com/1lyXiHSq7iBp4KAU69iPUA.jpg"> 
-<img src="https://images.plurk.com/3l1mtHOElFDFOEIKtN7JF9.jpg"> 
+<img src="https://images.plurk.com/7DHm4BVDgk1lxpE7YoGUeU.jpg"> 
 <img src="https://images.plurk.com/qk1c5dg5B1YyuaoGKR9uK.jpg">  
 <img src="https://images.plurk.com/5x1ppyK7LBOWt71kCgzuQF.jpg"> 
 <img src="https://images.plurk.com/4KFl4Qmj12O3ocilP60N1o.jpg"> 
