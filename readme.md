@@ -72,10 +72,13 @@
 <p><img src="https://images.plurk.com/5zeaV07xHGPbHyoPHUkWPh.jpg"></p>
 ###使用案例初步類別圖###
 <p><img src="https://images.plurk.com/QcauqsKAaGfzTpVWuBtE.jpg"></p>
+###強韌圖###
+<p><img src="https://images.plurk.com/3AfQd70MCCIg6MuhEZ72AO.jpg"></p>
 ###使用案例的名詞與概念類別列舉表###
 <p><img src="https://images.plurk.com/4mcXV1cKEW92LlfXlTCnhJ.jpg"></p>
 ###使用案例系統循序圖###
 <p><img src="https://images.plurk.com/5BuWj1wMhZFTcGMQHsWzLw.jpg"></p>
+<p><img src="https://images.plurk.com/499F6nOz3KOINspG3VxZPL.jpg"></p>
 ###使用案例事件之合約###
 <p><img src="https://images.plurk.com/4Vaf43dbAGtPRA0Sb5CofQ.jpg"></p>
 <p><img src="https://images.plurk.com/3OG8ZAXMTmV0Vvr10AdpHH.jpg"></p>
@@ -93,10 +96,13 @@
 <p><img src="https://images.plurk.com/1Ivhxr6Y8PXyERvIr5tvzO.jpg"></p>
 ###使用案例初步類別圖###
 <p><img src="https://images.plurk.com/4FhW01wZ1giJdYVk35ENKK.jpg"></p>
+###強韌圖###
+<p><img src="https://images.plurk.com/50lfTUswlzmmf4dj1uOLR6.jpg"></p>
 ###使用案例的名詞與概念類別列舉表###
 <p><img src="https://images.plurk.com/vpCp3GPO6MN5tOOZEASYw.jpg"></p>
 ###使用案例系統循序圖###
 <p><img src="https://images.plurk.com/6xnqSq6POAyg9sBTgmZ8qw.jpg"></p>
+<p><img src="https://images.plurk.com/5Cb8sbrdjizGrRwjnVu6VP.jpg"></p>
 ###使用案例事件之合約###
 <p><img src="https://images.plurk.com/4qr4zYi47UlrYONNh7TzdL.jpg"></p>
 <p><img src="https://images.plurk.com/2byBZr0fhVSLZX965wlVa2.jpg"></p>
@@ -107,6 +113,8 @@
 <img src="https://images.plurk.com/30CwoaV5vX1VAmvXDim2qY.jpg"> 
 <img src="https://images.plurk.com/wYpyvjfOUiC4rLfihTUkg.jpg">  
 <img src="https://images.plurk.com/4spyBYvMgK4xItHj88TvDw.jpg"> 
+###強韌圖###
+<img src="https://images.plurk.com/1lyXiHSq7iBp4KAU69iPUA.jpg"> 
 <img src="https://images.plurk.com/3l1mtHOElFDFOEIKtN7JF9.jpg"> 
 <img src="https://images.plurk.com/qk1c5dg5B1YyuaoGKR9uK.jpg">  
 <img src="https://images.plurk.com/5x1ppyK7LBOWt71kCgzuQF.jpg"> 
@@ -144,8 +152,10 @@
 <p><img src="https://images.plurk.com/7LEUA1KFLcsQKRFmoBWaJ.jpg"></p>
 ###使用案例初步類別圖###
 <p><img src="https://images.plurk.com/bHHrqSdpbbvOZbrhyWoDH.jpg"></p>
+<p><img src="https://images.plurk.com/4uqvEPtvBDqLIJ23sRn9W2.jpg"></p>
 ###使用案例循序圖###
 <p><img src="https://images.plurk.com/5nyVpsqxvFj4wd1BY1DZJ7.jpg"></p>
+<p><img src="https://images.plurk.com/46bhqiRhWyfCtcRhe0jcb6.jpg"></p>
 ###使用案例事件之合約###
 <p><img src="https://images.plurk.com/2FxVlbuBHVgQywfA9NrCtX.jpg"></p>
 <p><img src="https://images.plurk.com/5ZwB30Zrlh0seg0QXavPFM.jpg"></p>
